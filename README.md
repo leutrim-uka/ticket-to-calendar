@@ -2,13 +2,8 @@
 
 Paste booking text → extract with your local model → review → save directly to
 Apple Calendar through a local MCP server. `.ics` download remains available.
-Keep your existing Gemma model. Aider is optional for editing the project.
+Keep your existing Gemma model.
 
-## Run the updated app
-
-Unzip into a new folder, open `ticket-to-calendar` in VS Code, and use its terminal.
-If you previously saved your model identifier, copy that identifier into this
-project's `settings.json` or select your model in the interface.
 
 1. Load Gemma in LM Studio and start its local API server on port **1234**.
 2. Install the locked dependencies and start the interface:
