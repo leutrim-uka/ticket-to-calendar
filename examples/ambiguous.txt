@@ -1,0 +1,6 @@
+Fictional booking excerpt – not a timetable
+
+Train: IC 3003, Frankfurt (Main) Hbf to Stuttgart Hbf.
+Travel date: 04/05 (no year or date convention supplied).
+Departure: 14:20. Arrival: 15:50.
+Booking reference: DEMO44

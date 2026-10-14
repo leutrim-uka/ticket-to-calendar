@@ -1,0 +1,7 @@
+Fiktive Buchungsbestätigung – nicht als Fahrplan verwenden
+
+Ihre Reise am 20.10.2026:
+ICE 1001 von Berlin Hbf nach Leipzig Hbf.
+Abfahrt Berlin Hbf: 20.10.2026 um 10:30 Uhr.
+Ankunft Leipzig Hbf: 20.10.2026 um 11:45 Uhr.
+Buchungsreferenz: DEMO42

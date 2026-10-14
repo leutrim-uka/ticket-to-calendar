@@ -1,0 +1,8 @@
+{
+  "base_url": "http://localhost:1234/v1",
+  "model": "",
+  "timeout_seconds": 120,
+  "max_tokens": 1000,
+  "temperature": 0,
+  "structured_output": true
+}
